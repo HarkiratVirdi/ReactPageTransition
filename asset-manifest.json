@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pageTransition/static/css/main.f5b4b596.chunk.css",
+    "main.js": "/pageTransition/static/js/main.8f91a68b.chunk.js",
+    "main.js.map": "/pageTransition/static/js/main.8f91a68b.chunk.js.map",
+    "runtime-main.js": "/pageTransition/static/js/runtime-main.76423408.js",
+    "runtime-main.js.map": "/pageTransition/static/js/runtime-main.76423408.js.map",
+    "static/js/2.1b1351df.chunk.js": "/pageTransition/static/js/2.1b1351df.chunk.js",
+    "static/js/2.1b1351df.chunk.js.map": "/pageTransition/static/js/2.1b1351df.chunk.js.map",
+    "index.html": "/pageTransition/index.html",
+    "precache-manifest.aad4b0fdab62bd029c2d213f17a55110.js": "/pageTransition/precache-manifest.aad4b0fdab62bd029c2d213f17a55110.js",
+    "service-worker.js": "/pageTransition/service-worker.js",
+    "static/css/main.f5b4b596.chunk.css.map": "/pageTransition/static/css/main.f5b4b596.chunk.css.map",
+    "static/js/2.1b1351df.chunk.js.LICENSE.txt": "/pageTransition/static/js/2.1b1351df.chunk.js.LICENSE.txt",
+    "static/media/PeterUncompressed.jpg": "/pageTransition/static/media/PeterUncompressed.5dbb86c9.jpg",
+    "static/media/compressedImage.jpg": "/pageTransition/static/media/compressedImage.24942432.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76423408.js",
+    "static/js/2.1b1351df.chunk.js",
+    "static/css/main.f5b4b596.chunk.css",
+    "static/js/main.8f91a68b.chunk.js"
+  ]
+}
